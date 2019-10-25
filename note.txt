@@ -1,0 +1,2 @@
+test several convolutional layers
+create set of predicted test [id, label]
