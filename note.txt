@@ -1,2 +1,4 @@
 test several convolutional layers
 create set of predicted test [id, label]
+
+look at this : https://github.com/kurapan/CNN-MNIST
